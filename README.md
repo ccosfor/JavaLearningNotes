@@ -1,9 +1,14 @@
-
+- [前言](#前言)
+- [贡献](#贡献)
+- [博客](#博客)
+  - [操作系统](#操作系统)
+  - [设计模式](#设计模式)
+- [资源分享](#资源分享)
+  - [Java](#java)
+  - [未完待续...](#未完待续)
 
 # 前言
-
 这里是[Happysnaker的学习笔记仓库](https://github.com/happysnaker/JavaLearningNotes)，我将在这里存放我学习的记录，将对Java、数据库、操作系统、计算机网络、计算机组成以及其他知识进行总结，将针对常见面试考点以及一些扩展知识点进行学习记录，并分享我拥有的一些学习资源，欢迎大家star一起交流学习。
-
 笔记仓库地址: [happysnaker/JavaLearningNotes: Java后端学习笔记与学习资源，我的Java学习记录。这里将会涵盖Java、数据库、设计模式、计算机网络、操作系统、计算机组成原理、Spring框架以及运维等相关知识，同时也会分享我在学习过程中拥有的优质资源. (github.com)](https://github.com/happysnaker/JavaLearningNotes)
 
 键入`git clone https://github.com/happysnaker/JavaLearningNotes.git`或`git clone git://github.com/happysnaker/JavaLearningNotes.git`以克隆仓库。
